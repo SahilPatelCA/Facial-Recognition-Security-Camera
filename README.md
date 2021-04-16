@@ -1,9 +1,15 @@
 # Facial Recognition Security Camera
-
+### Team
 Developers: Sahil Patel, Liam Robbins, Noah Allen, Tinghui Song
 Link to Origional Development Team's Repository: https://github.com/noahallen/Facial-Recognition-Security-Camera
+
+### Demo Video
 Link to Demmo video we used as our Hackathon submission: https://www.youtube.com/watch?v=z5Ki4P4td6M&ab_channel=MeOow_STH
+
+### Devpost Project Link
 Devpost Link: https://devpost.com/software/facial-recognition-security-camera
+
+### Awares Won
 Awards Won: "Best Use of Google Cloud Platform (1st Place)" & "Best Hardware Hack Sponsored by Digi-Key"
 
 ## Inspiration
