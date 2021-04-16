@@ -1,6 +1,6 @@
 # Facial Recognition Security Camera
 ### Team
-Developers: Sahil Patel, Liam Robbins, Noah Allen, Tinghui Song
+Developers: Sahil Patel, Liam Robbins, Noah Allen, Tinghui Song                                                                                                          
 Link to Origional Development Team's Repository: https://github.com/noahallen/Facial-Recognition-Security-Camera
 
 ### Demo Video
