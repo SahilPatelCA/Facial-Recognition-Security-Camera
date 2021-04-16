@@ -1,5 +1,10 @@
 # Facial Recognition Security Camera
 
+Developers: Sahil Patel, Liam Robbins, Noah Allen, Tinghui Song
+Link to Origional Development Team's Repository: https://github.com/noahallen/Facial-Recognition-Security-Camera
+Link to Demmo video we used as our Hackathon submission: https://www.youtube.com/watch?v=z5Ki4P4td6M&ab_channel=MeOow_STH
+Devpost Link: https://devpost.com/software/facial-recognition-security-camera
+Awards Won: "Best Use of Google Cloud Platform (1st Place)" & "Best Hardware Hack Sponsored by Digi-Key"
 
 ## Inspiration
 The inspiration from this project came from a conversation had between all the group members where we were talking about the growing crime rates in our areas and how we wish we had something that could help us feel safer while at home. 
